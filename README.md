@@ -15,7 +15,7 @@ Xi-Le Zhao
 
  more detail can be found in [1]
 
-  [1] Xi-Le Zhao, Fan Wang, Ting-Zhu Huang，Michael KwokPo Ng, and Robert J Plemmons,
+  [1] Xi-Le Zhao, Fan Wang, Ting-Zhu Huang, Michael KwokPo Ng, and Robert J Plemmons,
       Deblurring and sparse unmixing for hyperspectral images.
 
  3) Please cite the paper listed in the following BibTex if you use any part of our source code or data.

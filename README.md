@@ -4,7 +4,7 @@ Xi-Le Zhao
           Deblurring and sparse unmixing for hyperspectral images
 **********************************************************************************
 
-           Copyright:  Xi-Le Zhao, Fan Wang, Ting-Zhu Huang，
+           Copyright:  Xi-Le Zhao, Fan Wang, Ting-Zhu Huang,
                      Michael KwokPo Ng, and Robert J Plemmons
 
 
